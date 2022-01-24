@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CorinneAline
 - 👀 I’m interested in programming with Php/Symfony/Angular/Javascript/Twig/Nunjucks...
 - 🌱 I’m currently learning React (I love it !), Js (for better knowing), ApiPlatform (wonderfull !), security, security and security again...
-- 💞️ I’m looking to collaborate on nice challenging projects ✨
+- 💞️ I’m looking for collaboration on nice challenging projects, specially if React is involved in the frontend part so that i can improve the practice of this library ✨
 - 📫 How to reach me ? See my resume online https://www.corinne-aline-poullette.fr/
 
